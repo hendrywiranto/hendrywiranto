@@ -3,8 +3,6 @@
 
 A software developer from Indonesia
 
-- 🔭 I’m currently working on [gomockcontrollerfinish](https://github.com/hendrywiranto/gomockcontrollerfinish)
-
 - ⚡ Fun fact **I do CP problems with C++**
 
 <h3 align="left">Connect with me:</h3>
