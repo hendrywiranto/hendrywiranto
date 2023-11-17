@@ -3,6 +3,9 @@
 
 A software developer from Indonesia
 
+- 👯 I’m looking to collaborate on **any OSS project written in GO**
+- 👨‍💻 I use **Go and Ruby** primarily
+- 📫 How to reach me **hendrywiranto24@gmail.com**
 - ⚡ Fun fact **I do CP problems with C++**
 
 <h3 align="left">Connect with me:</h3>
