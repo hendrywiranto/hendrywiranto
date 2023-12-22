@@ -7,6 +7,7 @@ A software developer from Indonesia
 - 👨‍💻 I primarily use **Go and Ruby** at work
 - 📫 How to reach me **hendrywiranto24@gmail.com**
 - ⚡ Fun fact **I do CP problems in Leetcode with C++**
+- 📄 **I use company private Gitlab for work** so you won't see much here except **my contribution to open source & personal projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
