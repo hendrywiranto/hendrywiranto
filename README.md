@@ -3,7 +3,7 @@
 
 A software developer from Indonesia
 
-- 👯 I’m looking to contribute to **any OSS project written in GO**
+- 👯 I actively contribute to **any OSS project written in GO**
 - 👨‍💻 I primarily use **Go and Ruby** at work
 - 📫 How to reach me **hendrywiranto24@gmail.com**
 - ⚡ Fun fact **I do CP problems in Leetcode with C++**
